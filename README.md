@@ -1,3 +1,4 @@
 # MyFirstGitRepo
 MyFirstGitRepo
-Hey, I am Samir Pandya. Created this Repo to learn how GitHub works.
+This is Samir Pandya. First Edit to ReadMe file.
+Third edit in total 
